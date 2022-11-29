@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UI2</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="delete_picture">Delete Picture</string>
+    <string name="help">Help</string>
+</resources>
